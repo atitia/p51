@@ -3,5 +3,8 @@ function setup() {
 }
 
 function draw() {
-    background(200, 0, 200);
+    background(0);
+    ellipse(100, 100, 50, 100);
+    onmousemove
+
 }
