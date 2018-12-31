@@ -1,10 +1,15 @@
 function setup() {
     createCanvas(1250, 600);
+    background(52, 76, 87);
+
 }
 
 function draw() {
-    background(0);
-    ellipse(100, 100, 50, 100);
-    onmousemove
+    ellipse(mouseX, mouseY, 100, 100);
+    noFill();
+
+
+
+
 
 }
